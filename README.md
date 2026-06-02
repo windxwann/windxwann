@@ -1,23 +1,21 @@
-# Hello, I'm [Ganti Nama Kamu] 👋
+# Hi, I'm [Nama Kamu] ⚡
 
-![Pokemon Trainer](https://img.shields.io/badge/Trainer-[Nama%20Kamu]-red?style=for-the-badge&logo=pokemon&logoColor=white)
-![Pokemon](https://img.shields.io/badge/Region-Kanto-yellow?style=for-the-badge&logo=pokemon&logoColor=white)
-![Level](https://img.shields.io/badge/Level-100-critical?style=for-the-badge&logo=pokemon)
+![Pokemon Trainer](https://img.shields.io/badge/Role-Fullstack%20Trainer-red?style=for-the-badge&logo=pokemon)
+![Level](https://img.shields.io/badge/Level-Over%209000-critical?style=for-the-badge)
 
-## My Pokémon Team 🐾
+## 🧪 My Pokémon Programming Arsenal
 
-![Pikachu](https://img.shields.io/badge/Pikachu-%23F7D44A?style=for-the-badge&logo=pokemon&labelColor=black)
-![Charizard](https://img.shields.io/badge/Charizard-%23F44A4A?style=for-the-badge&logo=pokemon&labelColor=black)
-![Bulbasaur](https://img.shields.io/badge/Bulbasaur-%2333CC66?style=for-the-badge&logo=pokemon&labelColor=black)
-![Squirtle](https://img.shields.io/badge/Squirtle-%233399FF?style=for-the-badge&logo=pokemon&labelColor=black)
+![Python](https://img.shields.io/badge/Python-Pikachu%20⚡-yellow?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JS-Charizard%20🔥-orange?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/React-Vaporeon%20💧-blue?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Treecko%20🌿-green?style=flat-square&logo=node.js)
 
-## Gym Badges 🎖️
+## 🎖️ Badges Earned
 
-![Rock Badge](https://img.shields.io/badge/Rock%20Badge-%23B87333?style=flat-square&logo=pokemon)
-![Water Badge](https://img.shields.io/badge/Water%20Badge-%233399FF?style=flat-square&logo=pokemon)
-![Electric Badge](https://img.shields.io/badge/Electric%20Badge-%23F7D44A?style=flat-square&logo=pokemon)
-![Grass Badge](https://img.shields.io/badge/Grass%20Badge-%2333CC66?style=flat-square&logo=pokemon)
+| Badge | Skill |
+|-------|-------|
+| ![Boulder Badge](https://img.shields.io/badge/Boulder%20Badge-HTML/CSS-brown?style=flat-square) | Frontend Fundamentals |
+| ![Cascade Badge](https://img.shields.io/badge/Cascade%20Badge-API%20Integration-blue?style=flat-square) | RESTful Services |
+| ![Thunder Badge](https://img.shields.io/badge/Thunder%20Badge-Performance%20Optimization-yellow?style=flat-square) | Speed & Efficiency |
 
----
-
-⭐ *Gotta Catch 'Em All!*
+## 📦 Tech Stack I've Mastered
