@@ -1,4 +1,4 @@
-# Hi, I'm [Nama Kamu] ⚡
+# Hi, I'm [Ridwan Sahidi Nugraha] ⚡
 
 ![Pokemon Trainer](https://img.shields.io/badge/Role-Fullstack%20Trainer-red?style=for-the-badge&logo=pokemon)
 ![Level](https://img.shields.io/badge/Level-Over%209000-critical?style=for-the-badge)
