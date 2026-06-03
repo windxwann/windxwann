@@ -1,7 +1,7 @@
 # Hi, I'm Ridwan Sahidi Nugraha ⚡
 
 ![Pokemon Trainer](https://img.shields.io/badge/Role-Fullstack%20Trainer-red?style=for-the-badge&logo=pokemon)
-![Level](https://img.shields.io/badge/Level-Over%209000-critical?style=for-the-badge&logo=pokemon)
+![Level](https://img.shields.io/badge/Level-1%20-critical?style=for-the-badge&logo=pokemon)
 ![Region](https://img.shields.io/badge/Region-Multiverse%20Champion-purple?style=for-the-badge&logo=pokemon)
 
 ## 🧪 My Pokémon Programming Arsenal
