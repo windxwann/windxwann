@@ -154,6 +154,28 @@
 
 ---
 
-## 🎯 Current Mission
 
-![Pokémon Mission](https://img.shields.io/badge/Mission-Build%20Something%20Awesome-brightgreen?style=for-the-badge&logo=pokemon)
+---
+
+## 🌟 GitHub Stats
+
+![Ridwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RidwanSahidi&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RidwanSahidi&layout=compact&theme=radical&hide_border=true)
+
+---
+
+### 📌 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ridwansahidi)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/RidwanSahidi)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ridwansahidi)
+
+---
+
+### ⚡ Pokémon of the Day
+
+<img src="https://unpkg.com/pokeapi-sprites@2.0.4/sprites/pokemon/versions/generation-v/black-white/animated/pikachu.gif" width="100" height="100" alt="Daily Pokemon"/>
+
+---
+
+⭐ *Gotta Catch 'Em All - In Code!*
